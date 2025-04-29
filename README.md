@@ -15,7 +15,7 @@ This is a responsive clone of the YouTube homepage built using **HTML** and **CS
 ## 📷 Preview
 [Live Site](https://chellyy01.github.io/YouTube-Clone/)
 
-![Screenshot](./IMG_1391.png)
+![Screenshot](./IMG_1392.png)
 
 ## 📂 How to Use
 1. Clone the repo
